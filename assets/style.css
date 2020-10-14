@@ -1,6 +1,7 @@
 body {
 background-color: darkslateblue;
 color: #fff;
+font-size: 25px;
 }
 
 .main {
@@ -11,4 +12,15 @@ color: #fff;
 
 p.winner {
     text-align: center;
+    color: gold;
+    font-size: 30px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    padding: 20px 30px;
+    background-color: orange;
+    color: #fff;
+    font-size: 30px;
 }
